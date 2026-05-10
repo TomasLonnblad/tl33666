@@ -165,7 +165,7 @@ export default function TimeMachine({
           const offsetIndex = card.index - currentIndex
           const blur = currentIndex > card.index ? 2 : 0
           const opacity = currentIndex > card.index ? 0 : 1
-          const scale = clamp(1 - offsetIndex * 0.08, [0.08, 2])
+          const scale = clamp(1 - offsetIndex * 0.08, [0.08, 3])
           const y = clamp(offsetIndex * FRAME_OFFSET, [FRAME_OFFSET * FRAMES_VISIBLE_LENGTH, Number.POSITIVE_INFINITY])
 
           const src = IMAGES[card.imageIndex]
