@@ -32,7 +32,23 @@ const IMAGES = [
   "https://tomaslonnblad.github.io/26.jpg",
   "https://tomaslonnblad.github.io/27.jpg",
   "https://tomaslonnblad.github.io/28.jpg",
-
+  "https://tomaslonnblad.github.io/29.jpg",
+  "https://tomaslonnblad.github.io/30.jpg",
+  "https://tomaslonnblad.github.io/31.jpg",
+  "https://tomaslonnblad.github.io/32.jpg",
+  "https://tomaslonnblad.github.io/33.jpg",
+  "https://tomaslonnblad.github.io/34.jpg",
+  "https://tomaslonnblad.github.io/35.jpg",
+  "https://tomaslonnblad.github.io/36.jpg",
+  "https://tomaslonnblad.github.io/37.jpg",
+  "https://tomaslonnblad.github.io/38.jpg",
+  "https://tomaslonnblad.github.io/39.jpg",
+  "https://tomaslonnblad.github.io/40.jpg",
+  "https://tomaslonnblad.github.io/41.jpg",
+  "https://tomaslonnblad.github.io/42.jpg",
+  "https://tomaslonnblad.github.io/43.jpg",
+  "https://tomaslonnblad.github.io/44.jpg",
+  "https://tomaslonnblad.github.io/45.jpg",
 ]
 
 const FRAME_OFFSET = -30
