@@ -174,7 +174,7 @@ export default function TimeMachine({
           return (
             <motion.div
               key={card.index}
-              className="absolute w-[85%] max-w-[800px] aspect-[16/9] bg-black rounded-lg overflow-hidden shadow-2xl"
+              className="absolute w-[100%] max-w-[800px] aspect-[16/9] bg-black rounded-lg overflow-hidden shadow-2xl"
               initial={false}
               animate={{
                 y,
